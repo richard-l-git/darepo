@@ -70,3 +70,9 @@ var_memoryview = memoryview(bytes('256','UTF-8'))
 print(var_memoryview.obj)
 print(type(var_memoryview))
 
+print('\nNone Type')
+
+var_nonetype = None
+print(var_nonetype)
+print(type(var_nonetype))
+
