@@ -1,3 +1,4 @@
 Welcome to my project.
+It is created on ChromeOS using the Debian based Linux terminal and VIM.
 
 Richard London
